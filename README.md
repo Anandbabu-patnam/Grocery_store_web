@@ -1,4 +1,4 @@
-***GROCERYSTOREWEBAPPLICATION
+***GROCERY STORE WEB APPLICATION
 
  • Developed a Grocery Store Web Application using Flask and MySQL, implementing user authentication,product catalog and shopping cart functionalities.
 
